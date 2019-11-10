@@ -3,4 +3,5 @@ The project uses clustering using color features as a simple approach to object 
 
 # Command to run
 python3 filename.py imagename.jpg no_of_clusters_to_be_formed
+
 E.g: python3 segment.py a.jpeg 4
